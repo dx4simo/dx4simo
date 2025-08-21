@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Dx4simo</h1>
-<h3 align="center">A passionate pentester from Egypt.</h3>
+<h3 align="center">A Backend Developer | Python Master🐍.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dx4simo&label=Profile%20views&color=0e75b6&style=flat" alt="dx4simo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dx4simo" alt="dx4simo" /></a> </p>
 
-- 🔭 I’m currently working on [Redsimo Framework](https://github.com/dx4simo/Redsimo-Framwork)
+- 🔭 I’m currently working on [Advanced-Youtube-Downloader-YDx4simo](https://github.com/dx4simo/Advanced-Youtube-Downloader-YDx4simo)
 
 - 👯 I’m looking to collaborate on [Redsimo Framework](https://github.com/dx4simo/Redsimo-Framwork)
 
-- 💬 Ask me about **Security**
+- 💬 Ask me about **Developing**
 
 - 📫 How to reach me **eslamalbadawy2000@gmail.com**
 
