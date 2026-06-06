@@ -1,31 +1,112 @@
-<h1 align="center">Hi 👋, I'm Dx4simo</h1>
-<h3 align="center">A Backend Developer | Python Master🐍.</h3>
+<h1 align="center">Hi 👋, I'm Islam Albadawy</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dx4simo&label=Profile%20views&color=0e75b6&style=flat" alt="dx4simo" /> </p>
+<h3 align="center">Angehender Softwareentwickler</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dx4simo" alt="dx4simo" /></a> </p>
+<p align="center">
+  Ich lerne Webentwicklung, Python und TypeScript und entwickle praktische Projekte, um meine Fähigkeiten Schritt für Schritt zu verbessern.
+</p>
+
+---
+
+### 👨‍💻 About me
+
+* 💻 Ich interessiere mich für Softwareentwicklung, Webentwicklung und praktische IT-Lösungen
+* 🌐 Ich lerne aktuell HTML, CSS, JavaScript, TypeScript, React, Next.js und Firebase
+* 🐍 Ich arbeite außerdem mit Python und entwickle kleine CLI-Projekte zum Lernen
+* 🛠️ Ich entwickle praktische Projekte, um Programmierung, Datenverarbeitung und Benutzeroberflächen besser zu verstehen
+* 🚀 Mein Ziel ist eine Ausbildung im IT-Bereich, besonders in der Anwendungsentwicklung
+* 🤝 Ich arbeite gerne im Team und bin motiviert, neue Technologien zu lernen
+
+---
+
+### 📌 Projects
 
 - 🔭 I’m currently working on [Advanced-Youtube-Downloader-YDx4simo](https://github.com/dx4simo/Advanced-Youtube-Downloader-YDx4simo)
 
 - 👯 I’m looking to collaborate on [Redsimo Framework](https://github.com/dx4simo/Redsimo-Framwork)
 
-- 💬 Ask me about **Developing**
 
-- 📫 How to reach me **eslamalbadawy2000@gmail.com**
+#### 🌐 MachSchritt Website
 
-<h3 align="left">Connect with me:</h3>
+A responsive multi-page business website for an international recruitment and consulting company.
+
+**Practiced:** HTML, CSS, JavaScript, responsive design, website structure
+
+Repository: [MachSchritt Website](https://github.com/IslamAbouelregal/machschritt-website)
+
+
+---
+
+#### 💰 Personal Finance Tracker
+
+A personal finance web application for tracking debts, daily expenses, income, accounts and financial records.
+
+**Practiced:** TypeScript, Next.js, React, Firebase, Firestore, authentication, forms, calculations, responsive UI
+
+Repository: [Personal Finance Tracker](https://github.com/IslamAbouelregal/Personal-finance-tracker)
+
+---
+
+#### 🐍 YouTube Media Downloader CLI
+
+A Python command-line learning project for downloading videos or playlists using external libraries.
+
+**Practiced:** Python scripting, CLI structure, user input, dependency handling, file management
+
+Repository: [YouTube Media Downloader CLI](https://github.com/IslamAbouelregal/Advanced-Youtube-Downloader)
+
+---
+
+#### 🐍 Facebook Media Downloader CLI
+
+A Python command-line learning project for downloading publicly available Facebook videos or reels.
+
+**Practiced:** Python scripting, command-line applications, file handling, external tools, basic automation
+
+Repository: [Facebook Media Downloader CLI](https://github.com/IslamAbouelregal/Advanced-Videosfacebook-Downloader) 
+
+---
+
+#### 🔐 Python Network Security Toolkit
+
+An educational Python project for practicing basic networking and ethical cybersecurity concepts.
+
+**Practiced:** Python, networking basics, WHOIS lookup, subdomain discovery, authorized port scanning, ethical cybersecurity awareness
+
+Repository: [Python Network Security Toolkit](https://github.com/IslamAbouelregal/Python-network-security-toolkit)
+
+---
+
+#### 🖥️ Windows User Account Management Practice
+
+A small Windows command-line practice project for learning local user account management and administrator permissions.
+
+**Practiced:** Windows command-line basics, system administration concepts, permissions and responsible tool usage
+
+Repository: [Windows User Account Management Practice](https://github.com/IslamAbouelregal/Windows-User-Account-Management-Practice-Tool))
+
+---
+
+### 🛠️ Languages and Tools
+
 <p align="left">
-<a href="https://www.facebook.com/dx4simo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dx4simo" height="30" width="40" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/dx4simo"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dx4simo" /></a><a href="https://ko-fi.com/dx4simo"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dx4simo" /></a></p><br><br>
+### 📫 Contact
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dx4simo&show_icons=true&locale=en&layout=compact" alt="dx4simo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dx4simo&show_icons=true&locale=en" alt="dx4simo" /></p>
+* Email: **[islamabouelregal@gmail.com](mailto:islamabouelregal@gmail.com)**
+---
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dx4simo&" alt="dx4simo" /></p>
