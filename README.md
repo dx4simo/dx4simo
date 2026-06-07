@@ -1,11 +1,3 @@
-<h1 align="center">Hi 👋, I'm Islam Albadawy</h1>
-
-<h3 align="center">Angehender Softwareentwickler</h3>
-
-<p align="center">
-  Ich lerne Webentwicklung, Python und TypeScript und entwickle praktische Projekte, um meine Fähigkeiten Schritt für Schritt zu verbessern.
-</p>
-
 ---
 <h1 align="center">Hi 👋, I'm Islam Albadawy</h1>
 
