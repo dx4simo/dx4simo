@@ -31,6 +31,7 @@ The project includes a product catalog, search, category filtering, price sortin
 **Practiced:** TypeScript, Next.js, React, Firebase Firestore, Firebase Authentication, CRUD operations, cart state, search, filter, sort logic, responsive UI
 
 Repository: [Mini E-Commerce Product Dashboard](https://github.com/dx4simo/Mini-ecommerce-dashboard)
+
 Live Demo: [e-Commerce.islamalbadawy.com](https://e-Commerce.islamalbadawy.com)
 
 ---
@@ -44,6 +45,7 @@ The project simulates a simple system for managing patients, appointments, appoi
 **Practiced:** TypeScript, Next.js, React, Firebase, Firestore, authentication, CRUD operations, forms, status logic, search/filter functionality, healthcare-related dashboard structure
 
 Repository: [Patient Appointment Manager](https://github.com/dx4simo/Patient-Appointment-Manager)
+
 Live Demo: [patientappointment.islamalbadawy.com](https://patientappointment.islamalbadawy.com)
 
 ---
@@ -67,6 +69,7 @@ A responsive multi-page business website for an international recruitment and co
 **Practiced:** HTML, CSS, JavaScript, responsive design, website structure
 
 Repository: [MachSchritt Website](https://github.com/dx4simo/machschritt-website)
+
 Live Demo: [machschritt.com](https://machschritt.com)
 
 ---
