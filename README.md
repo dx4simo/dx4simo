@@ -7,6 +7,15 @@
 </p>
 
 ---
+<h1 align="center">Hi 👋, I'm Islam Albadawy</h1>
+
+<h3 align="center">Angehender Softwareentwickler</h3>
+
+<p align="center">
+  Ich lerne Webentwicklung, Python und TypeScript und entwickle praktische Projekte, um meine Fähigkeiten Schritt für Schritt zu verbessern.
+</p>
+
+---
 
 ### 👨‍💻 About me
 
@@ -19,71 +28,94 @@
 
 ---
 
-### 📌 Projects
+## ⭐ Featured Projects
 
-- 🔭 I’m currently working on [Advanced-Youtube-Downloader-YDx4simo](https://github.com/dx4simo/Advanced-Youtube-Downloader-YDx4simo)
+### 🛒 Mini E-Commerce Product Dashboard
 
-- 👯 I’m looking to collaborate on [Redsimo Framework](https://github.com/dx4simo/Redsimo-Framwork)
+A small educational e-commerce dashboard built with Next.js, React, TypeScript and Firebase.
 
+The project includes a product catalog, search, category filtering, price sorting, shopping cart functionality and a protected admin dashboard for adding, editing and deleting products.
 
-#### 🌐 MachSchritt Website
+**Practiced:** TypeScript, Next.js, React, Firebase Firestore, Firebase Authentication, CRUD operations, cart state, search, filter, sort logic, responsive UI
 
-A responsive multi-page business website for an international recruitment and consulting company.
-
-**Practiced:** HTML, CSS, JavaScript, responsive design, website structure
-
-Repository: [MachSchritt Website](https://github.com/IslamAbouelregal/machschritt-website)
-
+Repository: [Mini E-Commerce Product Dashboard](https://github.com/dx4simo/Mini-ecommerce-dashboard)
+Live Demo: [e-Commerce.islamalbadawy.com](https://e-Commerce.islamalbadawy.com)
 
 ---
 
-#### 💰 Personal Finance Tracker
+### 🏥 Patient Appointment Manager
+
+A small educational appointment management project built with Next.js, React, TypeScript and Firebase.
+
+The project simulates a simple system for managing patients, appointments, appointment status and basic visit information in a structured dashboard.
+
+**Practiced:** TypeScript, Next.js, React, Firebase, Firestore, authentication, CRUD operations, forms, status logic, search/filter functionality, healthcare-related dashboard structure
+
+Repository: [Patient Appointment Manager](https://github.com/dx4simo/Patient-Appointment-Manager)
+Live Demo: [patientappointment.islamalbadawy.com](https://patientappointment.islamalbadawy.com)
+
+---
+
+## 📌 Other Projects
+
+### 💰 Personal Finance Tracker
 
 A personal finance web application for tracking debts, daily expenses, income, accounts and financial records.
 
 **Practiced:** TypeScript, Next.js, React, Firebase, Firestore, authentication, forms, calculations, responsive UI
 
-Repository: [Personal Finance Tracker](https://github.com/IslamAbouelregal/Personal-finance-tracker)
+Repository: [Personal Finance Tracker](https://github.com/dx4simo/Personal-finance-tracker)
 
 ---
 
-#### 🐍 YouTube Media Downloader CLI
+### 🌐 MachSchritt Website
 
-A Python command-line learning project for downloading videos or playlists using external libraries.
+A responsive multi-page business website for an international recruitment and consulting company.
 
-**Practiced:** Python scripting, CLI structure, user input, dependency handling, file management
+**Practiced:** HTML, CSS, JavaScript, responsive design, website structure
 
-Repository: [YouTube Media Downloader CLI](https://github.com/IslamAbouelregal/Advanced-Youtube-Downloader)
-
----
-
-#### 🐍 Facebook Media Downloader CLI
-
-A Python command-line learning project for downloading publicly available Facebook videos or reels.
-
-**Practiced:** Python scripting, command-line applications, file handling, external tools, basic automation
-
-Repository: [Facebook Media Downloader CLI](https://github.com/IslamAbouelregal/Advanced-Videosfacebook-Downloader) 
+Repository: [MachSchritt Website](https://github.com/dx4simo/machschritt-website)
+Live Demo: [machschritt.com](https://machschritt.com)
 
 ---
 
-#### 🔐 Python Network Security Toolkit
+### 🐍 YouTube Media Downloader CLI
 
-An educational Python project for practicing basic networking and ethical cybersecurity concepts.
+A Python command-line learning project for practicing CLI structure, user input, dependency handling and file management.
+
+**Practiced:** Python scripting, command-line applications, external libraries, file handling
+
+Repository: [YouTube Media Downloader CLI](https://github.com/dx4simo/Advanced-Youtube-Downloader-YDx4simo)
+
+---
+
+### 🐍 Facebook Media Downloader CLI
+
+A Python command-line learning project for practicing scripting, external tools, file handling and basic automation.
+
+**Practiced:** Python scripting, CLI applications, file management, external libraries
+
+Repository: [Facebook Media Downloader CLI](https://github.com/dx4simo/Advanced-Facebook-Downloader-FBx4simo)
+
+---
+
+### 🔐 Python Network Security Toolkit
+
+An educational Python project for practicing basic networking and ethical cybersecurity concepts in authorized environments.
 
 **Practiced:** Python, networking basics, WHOIS lookup, subdomain discovery, authorized port scanning, ethical cybersecurity awareness
 
-Repository: [Python Network Security Toolkit](https://github.com/IslamAbouelregal/Python-network-security-toolkit)
+Repository: [Python Network Security Toolkit](https://github.com/dx4simo/Python-network-security-toolkit)
 
 ---
 
-#### 🖥️ Windows User Account Management Practice
+### 🖥️ Windows User Account Management Practice
 
-A small Windows command-line practice project for learning local user account management and administrator permissions.
+A small Windows command-line practice project for learning local user account management and administrator permissions in a safe local environment.
 
 **Practiced:** Windows command-line basics, system administration concepts, permissions and responsible tool usage
 
-Repository: [Windows User Account Management Practice](https://github.com/IslamAbouelregal/Windows-User-Account-Management-Practice-Tool))
+Repository: [Windows User Account Management Practice](https://github.com/dx4simo/Windows-User-Changer)
 
 ---
 
@@ -107,6 +139,14 @@ Repository: [Windows User Account Management Practice](https://github.com/IslamA
 ### 📫 Contact
 
 * Email: **[islamabouelregal@gmail.com](mailto:islamabouelregal@gmail.com)**
+
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dx4simo&" alt="dx4simo" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dx4simo&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dx4simo&" alt="GitHub Streak" />
+</p>
+
