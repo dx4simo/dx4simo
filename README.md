@@ -100,7 +100,7 @@ An educational Python project for practicing basic networking and ethical cybers
 
 **Practiced:** Python, networking basics, WHOIS lookup, subdomain discovery, authorized port scanning, ethical cybersecurity awareness
 
-Repository: [Python Network Security Toolkit](https://github.com/dx4simo/Python-network-security-toolkit)
+Repository: [Python Network Security Toolkit]https://github.com/dx4simo/Redsimo-Framwork
 
 ---
 
